@@ -1,0 +1,90 @@
+body {
+  background-color: #f5f6fa;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.content {
+  background: #fff;
+  max-width: 700px;
+  margin: 32px auto;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.10);
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 0;
+}
+
+ul, p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.biography {
+  background: #e3f2fd;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.achievements {
+  background: #fffde7;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+body {
+  background-color: #f5f6fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #333;
+}
+
+.content {
+  background: #fff;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 32px;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1, ul, p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.biography {
+  background: #e3f2fd;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.achievements {
+  background: #fffde7;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.content h1 {
+  text-align: center;
+  font-size: 2.2em;
+}
+
+.content ul {
+  padding-left: 24px;
+}
+
+.content p {
+  font-size: 1.1em;
+}
+
+.content:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+  transition: box-shadow 0.2s;
+}
